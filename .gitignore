@@ -1,0 +1,13 @@
+#Ignore SQLite database files and journals
+*.sqlite
+*.sqlites
+*.db
+*.db-journal
+
+# Ignore Python virtual environments
+venv/
+.venv/
+
+# Ignore local environment variables
+.env
+.env.local
